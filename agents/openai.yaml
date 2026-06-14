@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Jokes"
+  short_description: "Write tailored jokes with punchlines"
+  default_prompt: "Use $generate-jokes to write five clean jokes about debugging."
